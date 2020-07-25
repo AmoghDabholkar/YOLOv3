@@ -1,6 +1,7 @@
 # YOLOv3
 
 Use pre-trained weights from Darknet team. [Not uploaded here due to huge size]
+Make sure to add the pre-trained weights file to yolo-coco folder before execution.
 
 For image - 
 cd YOLOv3/
